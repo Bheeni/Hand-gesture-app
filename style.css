@@ -1,0 +1,35 @@
+body
+{
+  color:springgreen;
+  font-size: large;
+  background: #6a61e2;
+
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px solid palegreen;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+h3{
+letter-spacing: 10px;
+border-radius: 10px;
+font-size: x-large;
+}
